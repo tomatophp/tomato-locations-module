@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/tomatophp/tomato-locations/blob/master/art/screenshot.png)
+![Screenshot](https://github.com/tomatophp/tomato-locations-module/blob/master/art/screenshot.png)
 
 # Tomato Locations
 
@@ -7,7 +7,7 @@ Database seeds for Locations plugin for TomatoPHP
 ## Installation
 
 ```bash
-composer require tomatophp/tomato-locations
+composer require tomatophp/tomato-locations-module
 ```
 
 ## Support
